@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main_heading_Ecommerce_website_products {
+    font-size: 30px;
+}
+
+.card_ecommerce_Website_products {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    height: 300px;
+    border-radius: 20px;
+    /* color: white; */
+}
+
+.button_card_ecommerce_product_section {
+    color: #ff9f00;
+    font-weight: 500;
+    background-color: white;
+    border-width: 0px;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+}
+
+.ecommerce_website_card_heading {
+    font-size: 35px;
+    color: white;
+}
+
+.ecommerce_website_card_para {
+    color: white;
+}
